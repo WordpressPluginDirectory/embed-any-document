@@ -1,9 +1,9 @@
 === Embed Any Document - Embed PDF, Word, PowerPoint and Excel Files  ===
 Contributors: awsmin
-Tags: embed documents, upload pdf, embed ppt, document viewer, pdf viewer, pdf viewer plugin, display pdf, embed pdf, embed pdf in wordpress, word, word viewer, word document, embed word, word plugin, doc, doc viewer, docx, docx viewer, excel, excel plugin, xls, xlsx, spreadsheet, embed spreadsheet, powerpoint, powerpoint viewer, ppt, ppt viewer, pptx, image viewer
+Tags: embed documents, embed ppt, document viewer, pdf viewer, word ppt
 Author URI: http://awsm.in
 Requires at least: 4.0
-Tested up to: 6.4.1
+Tested up to: 6.7.1
 Stable tag: trunk
 License: GPLv2 
 
@@ -112,6 +112,9 @@ The viewers (Google Docs Viewer and Microsoft Office Online) do not support loca
 Great. Send it to ead@awsm.in. We will answer it as soon as we can.
 
 == Changelog ==
+= V 2.7.5 - 2025-01-21 =
+* Security fixes and code improvements.
+
 = V 2.7.4 - 2023-08-07 =
 * Added: Cookie Policy section.
 * Code improvements.
@@ -128,14 +131,10 @@ Great. Send it to ead@awsm.in. We will answer it as soon as we can.
 * Fixed: Fatal error in some installations.
 * UI Improvements.
 
-= V 2.7.0 - 2021-08-02 =
-* Added: Improved Block Design.
-* Fixed: Conflict with Lazy loading feature added by some themes and plugins.
-* Fixed: Browser viewer fallback for unsupported browsers not working.
-
 [See changelog of previous versions](https://raw.githubusercontent.com/awsmin/Embed-Any-Documents/master/CHANGELOG.md)
 
 == Upgrade Notice ==
 
-= 2.7.4 =
-Cookie Policy section added.
+= 2.7.5 =
+Security fixes and code improvements.
+
